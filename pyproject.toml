@@ -3,7 +3,7 @@ name = "cusom_digit"
 authors = [
     { name = "alaalsalam", email = "alaalsalam101@gmail.com"}
 ]
-description = "Custom for Digit "
+description = "custom login for digit"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

@@ -1,7 +1,7 @@
 app_name = "cusom_digit"
 app_title = "Cusom Digit"
 app_publisher = "alaalsalam"
-app_description = "Custom for Digit "
+app_description = "custom login for digit"
 app_email = "alaalsalam101@gmail.com"
 app_license = "mit"
 

@@ -1,6 +1,6 @@
 ## Cusom Digit
 
-Custom for Digit 
+custom login for digit
 
 #### License
 
